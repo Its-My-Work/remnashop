@@ -9,7 +9,7 @@ ntf-remnashop-info =
 
 # Menu
 msg-main-menu =
-    <i><b>TUN mode — сервис защищённых интернет соединений!</b></i>
+    <i><b>TUN mode — сервис защищённых интернет соединений</b></i>
 
     { hdr-user-profile }
     { frg-user }

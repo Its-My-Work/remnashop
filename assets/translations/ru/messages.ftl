@@ -9,6 +9,7 @@ ntf-remnashop-info =
 
 # Menu
 msg-main-menu =
+    <i>Свяжитесь с поддержкой для выяснения причины!</i>
     { hdr-user-profile }
     { frg-user }
 

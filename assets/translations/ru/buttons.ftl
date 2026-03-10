@@ -41,7 +41,7 @@ btn-menu-trial = 🎁 ПОПРОБОВАТЬ БЕСПЛАТНО
 btn-menu-devices = 📱 Мои устройства
 btn-menu-devices-empty = ⚠️ Нет привязанных устройств
 btn-menu-subscription = 💳 Подписка
-btn-menu-invite = 👥 Пригласить
+btn-menu-invite = 👥 Партнерство
 btn-menu-invite-about = ❓ Подробнее о награде
 btn-menu-invite-copy = 🔗 Скопировать ссылку
 btn-menu-invite-send = 📩 Пригласить
@@ -181,7 +181,7 @@ btn-broadcast =  { $status ->
 # Go to
 btn-goto-subscription = 💳 Купить подписку
 btn-goto-promocode = 🎟 Активировать промокод
-btn-goto-invite = 👥 Партнерство
+btn-goto-invite = 👥 Пригласить
 btn-goto-subscription-renew = 🔄 Продлить подписку
 btn-goto-user-profile = 👤 Перейти к пользователю
 
